@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-core-example",
+  "version": "0.0.0",
+  "description": "A DOMParty project",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "DOMParty",
+  "license": "MIT",
+  "dependencies": {
+    "@domparty/nextjs-core": "0.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
