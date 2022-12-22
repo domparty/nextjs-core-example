@@ -9,7 +9,7 @@
   "author": "DOMParty",
   "license": "MIT",
   "dependencies": {
-    "@domparty/nextjs-core": "0.0.2",
+    "@domparty/nextjs-core": "0.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
